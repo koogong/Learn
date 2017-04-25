@@ -2,7 +2,7 @@
 //  main.c
 //  AdjacencyList
 //
-//  Created by 李家豪 on 2017/4/24.
+//  2017/4/24.
 //  Copyright © 2017年 koogong. All rights reserved.
 //
 
