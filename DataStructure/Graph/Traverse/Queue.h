@@ -2,7 +2,7 @@
 //  Queue.h
 //  AdjacencyList
 //
-//  Created by 李家豪 on 2017/4/25.
+//  2017/4/25.
 //  Copyright © 2017年 koogong. All rights reserved.
 //
 
