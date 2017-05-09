@@ -1,4 +1,0 @@
-target 'LottieDemo1' do
-	pod 'lottie-ios'
-end
-
