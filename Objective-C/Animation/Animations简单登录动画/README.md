@@ -167,8 +167,3 @@ return  _btn;
 ```
 
 
-
-Swift(Demo)[]
-
-Objective-C(Demo)[]
-
